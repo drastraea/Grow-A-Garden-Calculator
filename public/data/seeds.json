@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Carrot",
+    "minWeight": 0.24,
+    "k": 275,
+    "shekelPrice": 10,
+    "minValue": 18,
+    "tier": "Common",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Strawberry",
+    "minWeight": 0.29,
+    "k": 175,
+    "shekelPrice": 50,
+    "minValue": 14,
+    "tier": "Common",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Blueberry",
+    "minWeight": 0.17,
+    "k": 500,
+    "shekelPrice": 400,
+    "minValue": 18,
+    "tier": "Uncommon",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Orange Tulip",
+    "minWeight": 0.05,
+    "k": 300000,
+    "shekelPrice": 600,
+    "minValue": 767,
+    "tier": "Uncommon",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Tomato",
+    "minWeight": 0.44,
+    "k": 120,
+    "shekelPrice": 800,
+    "minValue": 27,
+    "tier": "Rare",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Corn",
+    "minWeight": 1.9,
+    "k": 10,
+    "shekelPrice": 1300,
+    "minValue": 36,
+    "tier": "Rare",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Watermelon",
+    "minWeight": 7.3,
+    "k": 61.25,
+    "shekelPrice": 2500,
+    "minValue": 2708,
+    "tier": "Legendary",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Apple",
+    "minWeight": 2.85,
+    "k": 30.53,
+    "shekelPrice": 3250,
+    "minValue": 248,
+    "tier": "Legendary",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Pumpkin",
+    "minWeight": 6.9,
+    "k": 64,
+    "shekelPrice": 3000,
+    "minValue": 3700,
+    "tier": "Legendary",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Coconut",
+    "minWeight": 13.31,
+    "k": 2.04,
+    "shekelPrice": 6000,
+    "minValue": 361,
+    "tier": "Mythical",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Cactus",
+    "minWeight": 6.65,
+    "k": 69.4,
+    "shekelPrice": 15000,
+    "minValue": 3068,
+    "tier": "Mythical",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Dragon Fruit",
+    "minWeight": 11.38,
+    "k": 32.99,
+    "shekelPrice": 50000,
+    "minValue": 4287,
+    "tier": "Mythical",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Mango",
+    "minWeight": 14.28,
+    "k": 28.89,
+    "shekelPrice": 100000,
+    "minValue": 5866,
+    "tier": "Mythical",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Mushroom",
+    "minWeight": 25.9,
+    "k": 241.6,
+    "shekelPrice": 150000,
+    "minValue": 136278,
+    "tier": "Divine",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Grape",
+    "minWeight": 2.85,
+    "k": 872,
+    "shekelPrice": 850000,
+    "minValue": 7085,
+    "tier": "Divine",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Pepper",
+    "minWeight": 4.75,
+    "k": 320,
+    "shekelPrice": 1000000,
+    "minValue": 7220,
+    "tier": "Divine",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Cacao",
+    "minWeight": 7.6,
+    "k": 187.5,
+    "shekelPrice": 2500000,
+    "minValue": 10830,
+    "tier": "Divine",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Beanstalk",
+    "minWeight": 9.5,
+    "k": 279.98,
+    "shekelPrice": 10000000,
+    "minValue": 25270,
+    "tier": "Prismatic",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Ember Lily",
+    "minWeight": 11.4,
+    "k": 385.6,
+    "shekelPrice": 15000000,
+    "minValue": 50000,
+    "tier": "Prismatic",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Sugar Apple",
+    "minWeight": 8.55,
+    "k": 592.6,
+    "shekelPrice": 20000000,
+    "minValue": 819,
+    "tier": "Prismatic",
+    "category": "Seed Shop"
+  },
+  {
+    "name": "Rose",
+    "minWeight": 0.95,
+    "k": 5000,
+    "shekelPrice": null,
+    "minValue": 4513,
+    "tier": "Uncommon",
+    "category": "Flower Seed Pack"
+  },
+  {
+    "name": "Foxglove",
+    "minWeight": 1.9,
+    "k": 5000,
+    "shekelPrice": null,
+    "minValue": 18050,
+    "tier": "Rare",
+    "category": "Flower Seed Pack"
+  },
+  {
+    "name": "Lilac",
+    "minWeight": 2.846,
+    "k": 3899,
+    "shekelPrice": null,
+    "minValue": 31588,
+    "tier": "Legendary",
+    "category": "Flower Seed Pack"
+  },
+  {
+    "name": "Pink Lily",
+    "minWeight": 5.63,
+    "k": 1806.5,
+    "shekelPrice": null,
+    "minValue": 58663,
+    "tier": "Mythical",
+    "category": "Flower Seed Pack"
+  },
+  {
+    "name": "Purple Dahlia",
+    "minWeight": 11.4,
+    "k": 522,
+    "shekelPrice": null,
+    "minValue": 67688,
+    "tier": "Mythical",
+    "category": "Flower Seed Pack"
+  },
+  {
+    "name": "Sunflower",
+    "minWeight": 15.15,
+    "k": 587.8,
+    "shekelPrice": null,
+    "minValue": 135375,
+    "tier": "Divine",
+    "category": "Flower Seed Pack"
+  },
+  {
+    "name": "Manuka Flower",
+    "minWeight": 1,
+    "k": 1,
+    "shekelPrice": null,
+    "minValue": 22563,
+    "tier": "Uncommon",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Bee Balm",
+    "minWeight": 0.94,
+    "k": 18033.333,
+    "shekelPrice": null,
+    "minValue": 15000,
+    "tier": "Rare",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Dandelion",
+    "minWeight": 3.79,
+    "k": 3130,
+    "shekelPrice": null,
+    "minValue": 45125,
+    "tier": "Rare",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Nectar Thorn",
+    "minWeight": 5.76,
+    "k": 906,
+    "shekelPrice": null,
+    "minValue": 40000,
+    "tier": "Legendary",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Lumira",
+    "minWeight": 5.69,
+    "k": 2362.5,
+    "shekelPrice": null,
+    "minValue": 76713,
+    "tier": "Legendary",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Suncoil",
+    "minWeight": 9.5,
+    "k": 800,
+    "shekelPrice": null,
+    "minValue": 72000,
+    "tier": "Mythical",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Honeysuckle",
+    "minWeight": 11.4,
+    "k": 694.3,
+    "shekelPrice": null,
+    "minValue": 90250,
+    "tier": "Mythical",
+    "category": "Bizzy Bear's Crafting Station"
+  },
+  {
+    "name": "Easter Egg",
+    "minWeight": 2.85,
+    "k": 277.825,
+    "shekelPrice": null,
+    "minValue": 4513,
+    "tier": "Uncommon",
+    "category": "Easter Event"
+  },
+  {
+    "name": "Moonglow",
+    "minWeight": 6.65,
+    "k": 408.45,
+    "shekelPrice": null,
+    "minValue": 50138,
+    "tier": "Divine",
+    "category": "Normal Seed Pack"
+  },
+  {
+    "name": "Moon Melon",
+    "minWeight": 7.6,
+    "k": 281.2,
+    "shekelPrice": 500000,
+    "minValue": 16245,
+    "tier": "Mythical",
+    "category": "Blood Moon Shop"
+  },
+  {
+    "name": "Moon Mango",
+    "minWeight": 14.25,
+    "k": 222.22,
+    "shekelPrice": 1000000000,
+    "minValue": 45125,
+    "tier": "Divine",
+    "category": "Twilight Shop"
+  },
+  {
+    "name": "Hive Fruit",
+    "minWeight": 7.59,
+    "k": 969,
+    "shekelPrice": 40,
+    "minValue": 45125,
+    "tier": "Divine",
+    "category": "Queen Bee Shop"
+  },
+  {
+    "name": "Nectarine",
+    "minWeight": 2.807,
+    "k": 4440,
+    "shekelPrice": 25,
+    "minValue": 31588,
+    "tier": "Mythical",
+    "category": "Queen Bee Shop"
+  },
+  {
+    "name": "Nectarshade",
+    "minWeight": 0.75,
+    "k": 78500,
+    "shekelPrice": 5,
+    "minValue": 45125,
+    "tier": "Rare",
+    "category": "Queen Bee Shop"
+  },
+  {
+    "name": "Lavender",
+    "minWeight": 0.25,
+    "k": 361008,
+    "shekelPrice": 3,
+    "minValue": 22563,
+    "tier": "Uncommon",
+    "category": "Queen Bee Shop"
+  }
+]

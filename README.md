@@ -22,4 +22,3 @@ Select seeds, apply mutations, and calculate total value in real-time.
 npm install
 npm run dev
 ```
-# Grow-A-Garden-Calculator
