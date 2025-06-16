@@ -188,9 +188,9 @@ export default function GrowCalculator() {
                     <p className="text-lg font-bold text-gray-800 dark:text-white">{result.name}</p>
                     <p className="text-center text-3xl">
                         <span
-                            className={`font-bold ${growth === 'rainbow'
+                            className={`font-bold ${growth === 'Rainbow'
                                     ? 'bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 bg-clip-text text-transparent'
-                                    : growth === 'gold'
+                                    : growth === 'Gold'
                                         ? 'text-yellow-500'
                                         : 'text-green-600'
                                 }`}
