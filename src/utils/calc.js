@@ -9,11 +9,15 @@ const envMutations = {
     Chocolate: 1, Moonlit: 1,
     Pollinated: 2, Bloodlit: 3,
     Plasma: 4, HoneyGlazed: 4,
-    Heavenly: 4, Baked: 9, Zombified: 24,
+    Heavenly: 4, Zombified: 24,
     Molten: 24, Shocked: 99,
     Celestial: 119, Disco: 124,
     Meteoric: 124, VoidTouched: 134,
-    Dawnbound: 149
+    Dawnbound: 149, Cooked: 9,
+    Windstruck: 1, Verdant: 3,
+    Twisted: 4, Paradisal: 17,
+    Sundried: 84, Alienlike: 99,
+    Galactic: 119
 };
 
 export function calculateValue(seed, options = {}) {

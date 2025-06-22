@@ -6,9 +6,10 @@ const growthOptions = ['None', 'Gold', 'Rainbow'];
 const tempOptions = ['None', 'Wet', 'Chilled', 'Frozen'];
 const envOptions = [
     'Chocolate', 'Moonlit', 'Pollinated', 'Bloodlit',
-    'Plasma', 'HoneyGlazed', 'Heavenly', 'Baked', 'Zombified',
+    'Plasma', 'HoneyGlazed', 'Heavenly', 'Zombified',
     'Molten', 'Shocked', 'Celestial', 'Disco', 'Meteoric',
-    'VoidTouched', 'Dawnbound'
+    'VoidTouched', 'Dawnbound', 'Cooked', 'Windstruck','Verdant', 'Twisted',
+    'Paradisal', 'Sundried', 'Alienlike', 'Galactic'
 ];
 
 export default function GrowCalculator() {
